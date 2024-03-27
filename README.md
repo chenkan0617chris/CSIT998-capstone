@@ -2,7 +2,7 @@
 
 ## Project name: Product label photo analyzer
 
-## updated xinnan 
+## updated xinnan 666
 
 ## Technology stacks
 
