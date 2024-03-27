@@ -2,6 +2,8 @@
 
 ## Project name: Product label photo analyzer
 
+## updated
+
 ## Technology stacks
 
 - language
